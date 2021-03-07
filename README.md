@@ -22,5 +22,7 @@ Erik Berglund
 Daily
 
 ## Tags
-#Botvac vacuum robot
-
+#Botvac
+#vacuum 
+#robot
+#neato
