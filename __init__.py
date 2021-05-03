@@ -20,7 +20,7 @@ class RobotControl(MycroftSkill):
 
     @intent_file_handler('control.robot.start')
     def handle_start_robot(self, message):
-        res = self.robot.start_cleaning()
+        res = self.robot.start_cleaning(category=4)
         parsed = json.loads(res.text)
         if parsed['result'] == 'command_rejected':
             self.speak_dialog('control.robot.unable')
