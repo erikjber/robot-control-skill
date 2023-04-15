@@ -1,7 +1,3 @@
-Where is the vacuum
-Where is the vacuum robot
-Where is the robot
-Locate vacuum
-Locate robot
-Make robot beep
-Make vacuum beep
+Where is (the|) (vacuum|robot|vacuum robot)
+Locate (the|) (vacuum|robot|vacuum robot)
+Make (the|) (robot|vacuum|vacuum robot) beep
