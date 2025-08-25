@@ -1,5 +1,5 @@
 # <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/robot.svg" card_color="#22A7F0" width="50" height="50" style="vertical-align:bottom"/> Robot Control
-A Mycrafot skill which enables voice commands of neato botvac d6 connected vacuuming robot.
+A Mycroft skill which enables voice commands of neato botvac d6 connected vacuuming robot.
 
 ## About
 Enables voice commands of neato botvac d6 connected vacuuming robot.
@@ -27,3 +27,4 @@ Daily
 #vacuum 
 #robot
 #neato
+#Mycroft
