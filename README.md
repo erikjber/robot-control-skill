@@ -1,8 +1,9 @@
 # <img src="https://raw.githack.com/FortAwesome/Font-Awesome/master/svgs/solid/robot.svg" card_color="#22A7F0" width="50" height="50" style="vertical-align:bottom"/> Robot Control
-Enables voice commands of neato botvac d6 connected vacuuming robot
+A Mycrafot skill which enables voice commands of neato botvac d6 connected vacuuming robot.
 
 ## About
-Enables voice commands of neato botvac d6 connected vacuuming robot
+Enables voice commands of neato botvac d6 connected vacuuming robot.
+Since Mycroft has been discontinued this skill is probably not very useful. It might or might not work with OpenVoiceOS, but that has not been tested and will not be supported.
 
 ## Examples
 * "Start vacuuming"
